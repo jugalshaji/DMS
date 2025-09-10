@@ -1,0 +1,52 @@
+Report created: 
+	30-07-2025	11:10:12
+
+Project name: birth12.aep
+
+Source files collected to: 
+	E:\New folder (6)\birth12 folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Three Line Bottom Left
+	One Line - Horizontal
+	Zig Zag Lines 03
+	01
+	02
+	03
+	04
+	05
+	06
+	BG
+	MAIN
+	07
+	02
+	Your Big Wishes,  Now on Big Screens! Comp 1
+	Now on Big Screens! Comp 1
+	08
+	
+Number of collected files:  10
+
+Size of collected files:  7.0 MB
+
+Collected source files: 
+	C:\Users\MY BOOK\Downloads\adobe-express-qr-code.png
+	C:\Users\MY BOOK\Downloads\Ellipse 3.png
+	C:\Users\MY BOOK\Downloads\Frame 1597882223 (1).png
+	C:\Users\MY BOOK\Downloads\Frame 1597882224 (1).png
+	C:\Users\MY BOOK\Downloads\freepik__photorealistic-photograph-of-an-tech-park-building__60859.png
+	C:\Users\MY BOOK\Downloads\GRADIENT_01.png
+	C:\Users\MY BOOK\Downloads\happy-work-anniversary-collagee.jpg
+	C:\Users\MY BOOK\Downloads\Untitled-1KKKK.png
+	C:\Users\MY BOOK\Downloads\WhatsApp Image 2025-07-02 at 11.52.28 AM.jpeg
+	C:\Users\MY BOOK\OneDrive\Pictures\Screenshots\Screenshot 2025-07-03 114844.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Bebas Neue”, Font style: “Regular”
+
