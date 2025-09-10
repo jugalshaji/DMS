@@ -1,0 +1,103 @@
+Report created: 
+	01-Sep-25	11:52:46 AM
+
+Project name: entry07.aep
+
+Source files collected to: 
+	D:\DMS\EntryApp\EntryApp\Collected Files\Entri_vertical_V03
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Text 01
+	QR Place Holder
+	entri QR CODE
+	Text 01
+	QR Place Holder
+	2. QR Code
+	Text 01
+	QR Place Holder
+	3. QR Code
+	Text 01
+	QR Place Holder
+	4. QR Code
+	Text 01
+	QR Place Holder
+	5. QR Code
+	Text 01
+	QR Place Holder
+	6. QR Code
+	Text 01
+	QR Place Holder
+	7. QR Code
+	Text 01
+	QR Place Holder
+	8. QR Code
+	Text 01
+	QR Place Holder
+	9. QR Code
+	Final 1
+	Final 2
+	Final 3
+	Final 4
+	Final 5
+	Final 6
+	Final 7
+	Final 8
+	Final 9
+	Title 01
+	Title 02
+	Title 03
+	Title 04
+	Title 05
+	Title 06
+	Title 07
+	Title 08
+	Title 09
+	Final Comp
+	ഇത്തവണ 2 Comp 1
+	ജോലിക്കൊപ്പം Comp 1
+	പഠിക്കാം Comp 1
+	Aa..
+	Comp 2
+	Girl bg
+	Jolik Oppam
+	Slide 01
+	Slide 02
+	Slide 03
+	Slide 03
+	Slide 03-01
+	Slide 03-02
+	Slide 03-04
+	Slide 04
+	
+Number of collected files:  9
+
+Size of collected files:  1.7 MB
+
+Collected source files: 
+	D:\DMS\EntryApp\EntryApp\qr\adobe-express-qr-code (4).png
+	D:\DMS\last verson\(Footage)\Resources\4@3x_png.png
+	D:\DMS\last verson\(Footage)\Resources\9.png
+	D:\DMS\last verson\(Footage)\Resources\Asset 1@3x png.png
+	D:\DMS\last verson\(Footage)\Resources\entrii.pdf
+	D:\DMS\last verson\(Footage)\Resources\girl.png
+	D:\DMS\last verson\(Footage)\Resources\mic.png
+	D:\DMS\last verson\(Footage)\Resources\round.png
+	D:\DMS\last verson\(Footage)\Simple QR Code After Effects (converted).aep\adobe-express-qr-code.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  Color Control
+	
+Effect:  Fill
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Corbel”, Font style: “Bold”
+
